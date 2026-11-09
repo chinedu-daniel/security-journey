@@ -8,3 +8,4 @@ Documenting my path into web security, one day at a time.
 
   ## Progress
 - Day 1: Lab setup, Burp proxy, first intercepted request
+([blog post](https://dev.to/chinedu-daniel/built-my-web-security-lab-and-intercepted-my-first-request-35li))
